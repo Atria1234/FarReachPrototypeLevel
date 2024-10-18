@@ -6,7 +6,7 @@ data:extend({
         name = FarReachPrototypeLevel.setting_names.character_names,
         setting_type = "startup",
         default_value = "character",
-        order = 0,
+        order = '0',
     },
     {
         type = "int-setting",
@@ -14,7 +14,7 @@ data:extend({
         setting_type = "startup",
         default_value = 100,
         minimum_value = 0,
-        order = 1,
+        order = '1',
     },
     {
         type = "int-setting",
@@ -22,7 +22,7 @@ data:extend({
         setting_type = "startup",
         default_value = 100,
         minimum_value = 0,
-        order = 2,
+        order = '2',
     },
     {
         type = "int-setting",
@@ -30,7 +30,7 @@ data:extend({
         setting_type = "startup",
         default_value = 100,
         minimum_value = 0,
-        order = 3,
+        order = '3',
     },
     {
         type = "int-setting",
@@ -38,6 +38,6 @@ data:extend({
         setting_type = "startup",
         default_value = 100,
         minimum_value = 0,
-        order = 4,
+        order = '4',
     }
 })
